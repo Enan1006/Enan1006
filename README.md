@@ -1,4 +1,5 @@
 ### Hi there 👋
+Love to do coding, learn new things everyday
 
 <!--
 **Enan1006/Enan1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
