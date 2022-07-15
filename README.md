@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Imdadul Haque Enan 👋
 Love to do coding, learn new things everyday
 
 <!--
