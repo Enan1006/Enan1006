@@ -1,4 +1,25 @@
-## Hey 👋, I'm Imdadul Haque Enan!  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Imdadul Haque Enan, a full-time full-stack developer 👨‍💻 practicing 
+ since 2021 🚀</div>  
+  
+
+- 🔭 I’m currently working on a blog project  
+  
+
+- 🌱 I’m currently learning Next js  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
   
 
 
